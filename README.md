@@ -2,7 +2,7 @@
 - 👀 I’m interested in  progrmação web
 - 🌱 I’m currently learning  js, angular, react
 - 💞️ I’m looking to collaborate on  com uma Ong,  onde meu objetivo será alavancar se status e reconhecimento através de um site 
-- projeto a qual pretendo elaborar, e também por meio de monitoria ensinar jovens conceitos básicos de informática as jovens carcante   
+- projeto a qual pretendo elaborar, e também por meio de monitoria ensinar jovens conceitos básicos de informática as jovens carentes. 
 -
 - 📫 How to reach me  zap 969981172
 
